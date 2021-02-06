@@ -3,3 +3,6 @@ bin/
 *MyTest.java
 data/
 model/
+target
+model/
+.idea/
